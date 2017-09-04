@@ -1,2 +1,3 @@
 # g74
-private live television and sports repository
+
+private free live television channels and sports.
